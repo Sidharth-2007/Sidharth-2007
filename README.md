@@ -1,92 +1,128 @@
 <h1 align="center">Hi 👋, I'm Sidharth</h1>
-<h3 align="center">BCA Student | Aspiring Cybersecurity Enthusiast</h3>
 
 <p align="center">
-Exploring Cybersecurity, Competitive Programming, and Core Computer Science Fundamentals.
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Learner;CTF+Player;Competitive+Programmer;BCA+Student&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+Exploring Cybersecurity, System Internals, and Computer Science Fundamentals.
 </p>
 
 ---
 
-# 💫 About Me
+## 🔐 About Me
 
-🎓 1st Year **BCA Student** at Amrita Vishwa Vidyapeetham, Kochi  
+🎓 BCA Student at Amrita Vishwa Vidyapeetham, Kochi  
 📍 Kerala, India  
 
-🔐 Passionate about **Cybersecurity & Ethical Hacking**  
-🧠 Currently building strong **programming and security fundamentals**  
-🚩 Practicing **CTF challenges** and security labs  
-💻 Solving **competitive programming problems** and learning problem-solving  
+🔍 Passionate about **Cybersecurity and system investigation**
 
-⚡ I enjoy **investigating systems, solving challenges, and understanding how things work internally.**
+🚩 Practicing **Capture The Flag (CTF)** challenges
 
----
+💻 Competitive programming and problem solving
 
-# 🧠 Current Learning Focus
+🧠 Currently focusing on **building strong computer science and security fundamentals**
 
-• Cybersecurity Fundamentals  
-• Linux & Bash Scripting  
-• Python for Security  
-• Networking Basics  
-• Capture The Flag (CTF) Challenges  
-• Data Structures & Algorithms  
+⚡ I enjoy **investigating systems, solving technical challenges, and understanding how technologies work internally**
 
 ---
 
-# 🚩 Cybersecurity Practice Platforms
+## 🚩 Cybersecurity Interests
 
-🔹 picoCTF  
-🔹 Hack The Box  
-🔹 TryHackMe  
+I explore different cybersecurity areas through CTF challenges and learning resources.
 
-I regularly practice CTF challenges to improve my **problem solving, investigation, and security skills**.
+Current interests include:
 
----
-
-# 🛠 Tech Stack
-
-### 💻 Programming
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### 🗄 Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Creative Tools
-
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+- Digital Forensics
+- Web Exploitation
+- Cryptography
+- Reverse Engineering
+- Binary Exploitation
+- Linux Internals
 
 ---
 
-# 🧩 What You'll Find in My Repositories
+## 🧩 CTF Platforms
 
-📂 Beginner Programming Logic  
-📂 Competitive Programming Solutions (Codeforces)  
-📂 CTF Learning Notes and Resources  
-📂 Cybersecurity Practice Material  
+I practice cybersecurity challenges on:
 
-These repositories document **my learning journey in cybersecurity and programming.**
+- picoCTF
+- Hack The Box
+- TryHackMe
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Sidharth-2007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Sidharth-2007&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharth-2007&theme=dark&hide_border=false&layout=compact)
+These platforms help me develop **investigation and problem-solving skills in cybersecurity**.
 
 ---
 
-# 🌐 Connect With Me
+## 💻 Competitive Programming
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharths25)
+I practice algorithmic problem solving and programming on:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharths182007@gmail.com)
+- Codeforces
+
+This helps improve:
+
+- Logical thinking
+- Algorithmic skills
+- Programming fundamentals
 
 ---
 
-⭐ *Always learning, exploring, and building skills in Cybersecurity.*
+## 🛠 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+
+---
+
+## 📂 Repository Focus
+
+My repositories mainly document my **learning journey in cybersecurity and programming**.
+
+You will find:
+
+- Programming fundamentals
+- Competitive programming solutions
+- CTF learning materials
+- Cybersecurity notes and experiments
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sidharth-2007&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidharth-2007&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharth-2007&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sidharths25)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sidharths182007@gmail.com)
+
+---
+
+⭐ Always learning, exploring, and improving in Cybersecurity.
+---
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/Sidharth-2007/Sidharth-2007/blob/output/github-contribution-grid-snake.svg)
