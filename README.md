@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sidharth-2007/Sidharth-2007/raw/main/assets/matrix-rain.svg" alt="Matrix Rain HUD" width="100%" />
+  <img src="https://github.com/Sidharth-2007/Sidharth-2007/raw/main/assets/matrix-rain.gif" alt="Matrix Rain HUD" width="100%" />
 </p>
 
 <p align="center">
